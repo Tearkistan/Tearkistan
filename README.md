@@ -1,6 +1,6 @@
 Hello World! 👋
 
-- 🔭 I’m currently focused on pursing junior Data / Analytic Engineering or a senior PMO / Transformation role. I am currently a Teacher Assistant at Le Wagon in both Data   Analytics and Data Science
+- 🔭 I’m currently focused on pursing a junior Data / Analytic Engineering or a senior PMO / Transformation role. I am currently a Teacher Assistant at Le Wagon in both Data   Analytics and Data Science
 
 - 🏗️ I data pipeline and visualization on Fortune Frontier. A revenue forecasting app based on Python, Streamlit, Google Cloud Storage, BigQuery and various machine learning models including Facebook Prophet in collaboration with philippniegisch. To date my contribution has largely focused on data pipeline, backend, and frontend layout
 
