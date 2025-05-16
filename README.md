@@ -1,20 +1,20 @@
 Hello World! 👋
 
-- 🔭 I’m currently focused on pursing a junior Data / Analytic Engineering or a senior PMO / Transformation role. I am currently a Teacher Assistant at Le Wagon in both Data   Analytics and Data Science
+- 🔭 I'm a student at 42 Berlin seeking a part-time role in technical project coordination or team operations, with a long-term focus on systems-level development and applied AI. I'm especially interested in supply chain technologies and intelligent system design.
 
-- 🏗️ I'm currently working on the data pipeline and visualization on Fortune Frontier. A revenue forecasting app based on Python, Streamlit, Google Cloud Storage, BigQuery and various machine learning models including Facebook Prophet in collaboration with philippniegisch. To date my contribution has largely focused on data pipeline, backend, and frontend layout
+- 🏗️ Current focus is on normalizing into 42 Berlin core curriculum based on C programming at a full-time capacity since 05.05.2025
 
-- 🌱 I’m currently learning Kafka, Airflow, and Fivetran
+- 🤔 Currently looking for a long-term mentor experienced with AI, consulting, and manufacturing / logistics in Berin area - any leads, pointers, advice, and feedback much appreciated
 
-- 👯 I’m looking to collaborate on data pipeline and analytic projects. Open to all domains at this stage. I enjoy diverse projects from my PMO, transformation, and business performance managment days on Business Group / cross-functional level
+- 🌱 SAP certifications, FabLab projects, networking activities coming soon
 
-- 🤔 I’m looking for help with job search and portfolio development - any leads, pointers, advice, and feedback much appreciate
+- 👯 Collaboration pitches TBD
 
 - 📫 How to reach me: best on linkedin, linked on my profile
 
-- 💬 Ask me about data, transformation, coaching, community building, personal development, fitness, games, or anything that inspires
+- 💬 Ask me about data, systems, games, fitness / wellness
 
-- ⚡ Fun fact: West Coast, Best Coast 😏 Family still there, however, I have been living primarily in Switzerland and Germany since 18
+- ⚡ Fun facts: Alaskan Born. Finance degree. 7+ years experience as project manager / PMO @Nokia. Launched a successful wellness business in 2023. On ice so far in 2025.
 
-Onwards!💫
+Keep iterating!💫
 
