@@ -14,7 +14,7 @@ Hello World! 👋
 
 - 💬 Ask me about data, systems, games, fitness / wellness
 
-- ⚡ Fun facts: Alaskan Born. Finance degree. 7+ years experience as project manager / PMO @Nokia. Launched a successful wellness business in 2023. On ice so far in 2025.
+- ⚡ Fun facts: Alaskan Born. Finance degree. 7+ years experience as project manager / PMO @Nokia. Launched a successful 5-star wellness business in at physio praxis in 2023. On ice so far in 2025.
 
 Keep iterating!💫
 
