@@ -4,7 +4,7 @@ Hello World! 👋
 
 - 🏗️ Current focus is on normalizing into 42 Berlin core curriculum based on C programming at a full-time capacity since 05.05.2025
 
-- 🤔 Currently looking for a long-term mentor experienced with AI, consulting, and manufacturing / logistics in Berin area - any leads, pointers, advice, and feedback much appreciated
+- 🤔 Currently looking for a long-term mentor experienced with AI, consulting, and manufacturing / logistics in Berlin area - any leads, pointers, advice, and feedback much appreciated
 
 - 🌱 SAP certifications, FabLab projects, networking activities coming soon
 
