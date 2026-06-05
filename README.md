@@ -1,20 +1,12 @@
-Hello World! 👋
+Software engineering student at 42 Berlin — C / systems programming — with a background in technical delivery and business transformation at Nokia.
 
-- 🔭 I'm a student at 42 Berlin seeking a part-time role in technical project coordination or team operations, with a long-term focus on systems-level development and applied AI. I'm especially interested in supply chain technologies and intelligent system design.
+Previously: product owner for an Azure-based KPI platform (2,000+ users), PMO lead across supply-chain and cost programmes, governance infrastructure builder for 28 executive forums.
 
-- 🏗️ Current focus is on normalizing into 42 Berlin core curriculum based on C programming at a full-time capacity since 05.05.2025
+Now: building hands-on engineering depth alongside that delivery track record.
 
-- 🤔 Currently looking for a long-term mentor experienced with AI, consulting, and manufacturing / logistics in Berlin area - any leads, pointers, advice, and feedback much appreciated
+Interested in applied AI, health-tech, and the intersection of systems thinking and people-facing products.
 
-- 🌱 SAP certifications, FabLab projects, networking activities coming soon
+Open to part-time, internship, or full-time roles in software engineering, technical product, or project management — Berlin.
 
-- 👯 Collaboration pitches TBD
-
-- 📫 How to reach me: best on linkedin, linked on my profile
-
-- 💬 Ask me about data, systems, games, fitness / wellness
-
-- ⚡ Fun facts: Alaskan Born. Finance degree. 7+ years experience as project manager / PMO @Nokia. Launched a successful 5-star wellness business in at physio praxis in 2023. On ice so far in 2025.
-
-Keep iterating!💫
+📫 LinkedIn: linkedin.com/in/teague-watson
 
